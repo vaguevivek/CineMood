@@ -1,0 +1,5 @@
+{
+  "name": "AI Movie Finder",
+  "description": "An AI-powered movie finder that suggests films based on your descriptions. Describe the plot, actors, genre, or even the mood you're in, and let the AI find the perfect movie for you.",
+  "requestFramePermissions": []
+}
